@@ -7,6 +7,10 @@ public class GitTest {
 
 		System.out.println("first after delete");
 		System.out.println("123");
+System.out.println("123");
+System.out.println("123");
+System.out.println("123");
+		
 	}
 
 }
