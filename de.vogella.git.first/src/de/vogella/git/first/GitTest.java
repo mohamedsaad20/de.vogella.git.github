@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("Git is cool :D");
 
 		System.out.println("first after delete");
+		System.out.println("123");
 	}
 
 }
